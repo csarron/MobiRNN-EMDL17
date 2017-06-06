@@ -1,7 +1,7 @@
 
+# MobiRNN-EMDL17
 
-
-Note that this repo is for reproducing the results reported in the MobiRNN paper ([v1](https://arxiv.org/abs/1706.00878))
+Note that this repo is for reproducing the results reported in the MobiRNN [paper(v1)](https://arxiv.org/abs/1706.00878)
 
 
 ## Usage
